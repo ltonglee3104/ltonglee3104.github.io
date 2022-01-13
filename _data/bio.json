@@ -5,8 +5,8 @@
     "picture": "https://ltonglee3104.github.io/images/molly.png",
     "email": "ltonglee@hawaii.edu",
     "phone": "808-729-2400",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://ltonglee3104.github.io",
+    "summary": "I am a student at UH Manoa who graduated with an ACM Animation Track and is currently earning ICS BA.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,32 +17,20 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ltonglee3104",
+        "url": "http://github.com/ltonglee3104"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ltonglee3104",
+        "url": "https://www.linkedin.com/in/londy-tong-lee-b26375177/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Video games, Video Game design, drawing, animation",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
