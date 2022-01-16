@@ -5,7 +5,7 @@ image: images/Pua-Warriors.jpg
 title: Pua Warriors
 permalink: projects/pua-warriors
 # All dates must be YYYY-MM-DD format!
-date: 2020-07-09 - 2020-12-31
+date: 2020-07-09
 labels:
   -Animation
   -Linework
