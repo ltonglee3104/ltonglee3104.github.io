@@ -14,4 +14,8 @@ labels:
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
-HELLO
+<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+
+HEllo testing
+ 
+Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
