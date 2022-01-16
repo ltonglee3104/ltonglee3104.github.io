@@ -26,7 +26,7 @@ After finishing my shots, I took on extra shots to help keep the production goin
 the project ahead of schedule and was able to polish up on shots before my director turned it in for their final assignment. After completion of the cartoon, 
 it was presented at the Hawaii International Film Festival and other film festivals before winning awards at the Academy of Creative Media Awards Festival. 
 
-You can view this cartoon here at the NMG Network. [Pua Warriors](https://drive.google.com/file/d/1YX2OlIwxSB639diVJZMZ_fb0wWQZszz8/view?usp=sharing)
+You can view this cartoon here at the NMG Network. [Pua Warriors](https://nmgnetwork.com/watch/pua-warriors/)
 
 
  
