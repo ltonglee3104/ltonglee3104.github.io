@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/Pua-Warriors.jpg
 title: Pua Warriors
 permalink: projects/pua-warriors
 # All dates must be YYYY-MM-DD format!
@@ -12,8 +12,7 @@ labels:
 summary: Animated cartoon based on the flowers of Hawaii. Worked as a rough animator and clean up artist.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/Pua-Warriors.jpg">
 
-HEllo testing
+
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
