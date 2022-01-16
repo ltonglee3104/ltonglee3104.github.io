@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hunt.png
+image: images/Hunt.png
 title: The Big Hunt
 permalink: projects/hunt
 # All dates must be YYYY-MM-DD format!
