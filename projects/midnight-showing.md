@@ -28,8 +28,3 @@ completed.
 When working on this project, I learned the ways on how to expedite teh production process as I was given set colors and instructions on how to color and shade the shot.
 It was really fun working with other animators and figure out a rhythm when working. At the end of the production, I was able to enjoy working and communitcating with my fellow animators. 
 
-
-
-
-<img class="ui medium right floated rounded image" src="../images/Angel.png">
-
