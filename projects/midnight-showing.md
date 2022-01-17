@@ -18,7 +18,22 @@ summary: Animated cartoon about a movie worker taking the night shift at their j
 Midnight Showing is a film directed and produced by Gavin Arucan. This film is about a movie worker (Angel) working the late shift at his job as he soon
 finds out the creepy nature of the movie theatre. This project was a capstone project that I assisted in the production of the film. This film was presented at
 Hawaii International Film Festival 2020 and won awards.
+
+
+
+
+
+
+
+
 <img class="ui medium right floated rounded image" src="../images/Angel.png">
+
+
+
+
+
+
+
 
 On this project, I was invited to help with coloring the scenes for the final parts of the production. I was given many scenes and set color palletes so I can keep the 
 animations consistant with all the other animators and colorists. We were working in a computer lab so I was able to get input on final colors by the director so I delievered
