@@ -1,61 +1,31 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/Pua-Warriors.jpg
+title: Pua Warriors
+permalink: projects/pua-warriors
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-07-09
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  -Animation
+  -Linework
+summary: Animated cartoon based on the flowers of Hawaii. Worked as a rough animator and clean up artist.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui medium right floated rounded image" src="../images/Pua-Warriors.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Pua Warriors was a cartoon directed and produced by Sophia Whalen. The film was written by Sophia Whalen and Gavin Arucan. This cartoon project
+is to entertain viewers and teach them the importance of keeping the island of Hawaii clean from pollution. The cartoon also teaches the viewers
+about the beautiful flowers of our island. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+On this project, I was invited to help do rough animation and clean up animation during production. I took on shots that were for the beginning of the
+cartoon. Given a schedule, I worked on shots like the plate lunch and some of the action scenes. The vast majority of the project I was in communication with the
+director and producer on where to clean up and fix shots, similar to what a real animation company would do. 
 
-<hr>
+After finishing my shots, I took on extra shots to help keep the production going and even did final coloring before post fx. We ended up finishing 
+the project ahead of schedule and was able to polish up on shots before my director turned it in for their final assignment. After completion of the cartoon, 
+it was presented at the Hawaii International Film Festival and other film festivals before winning awards at the Academy of Creative Media Awards Festival. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+You can view this cartoon here at the NMG Network. [Pua Warriors](https://nmgnetwork.com/watch/pua-warriors/)
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
