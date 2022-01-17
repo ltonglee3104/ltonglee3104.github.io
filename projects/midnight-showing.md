@@ -9,7 +9,7 @@ date: 2019-09-11
 labels:
   -Animation
   -Colorist
-summary: Animated cartoon about a movie worker taking the night shift at their job. Many horrors to come as this worker discovers the secrets of the movie.\
+summary: Animated cartoon about a movie worker taking the night shift at their job. Many horrors to come as this worker discovers the secrets of the movie.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/mini-poster.png">
