@@ -7,9 +7,9 @@ permalink: projects/pua-warriors
 # All dates must be YYYY-MM-DD format!
 date: 2020-07-09
 labels:
-  -Animation
-  -Linework
-  -Clean-up
+  - Animation
+  - Linework
+  - Clean-up
 summary: Animated cartoon based on the flowers of Hawaii. Worked as a rough animator and clean up artist.
 ---
 
