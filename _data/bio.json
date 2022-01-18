@@ -70,14 +70,24 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "area": "ACM: Animation Track (2019)",
+      "studyType": "B.A.",
+      "startDate": "2015-08-22",
+      "endDate": "2019-12-18",
+      "gpa": "3.72",
       "courses": [
       ]
-    }
+    },
+    
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "ICS (Expected Fall 2023)",
+      "studyType": "B.A.",
+      "startDate": "2020-08-22",
+      "endDate": "Present",
+      "gpa": "3.72",
+      "courses": [
+      ]
+    },
   ],
   "work": [
     {
@@ -106,15 +116,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Wasabi Magazine. (Under manga artist Kazuo Maekawa)",
+      "website": "",
+      "position": "Manga assistant",
+      "startDate": "2020-01-20",
+      "endDate": "2021-12-30",
+      "summary": "Manga assistant for local manga project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Learned and improved on the art of manga.",
+        "Taught younger kids how to draw art and manga."
       ]
     },
     {
