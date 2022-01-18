@@ -78,7 +78,7 @@
       "courses": [
       ]
     },
-    
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "ICS (Expected Fall 2023)",
       "studyType": "B.A.",
@@ -87,7 +87,7 @@
       "gpa": "3.72",
       "courses": [
       ]
-    },
+    }
   ],
   "work": [
     {
