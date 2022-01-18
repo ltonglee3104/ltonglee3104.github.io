@@ -25,6 +25,6 @@ animations consistant with all the other animators and colorists. We were workin
 my shots to the final project of the animation. Overall, I was able to be a part of a large team of animators communicating with one another on how to get the final film 
 completed. 
 
-When working on this project, I learned the ways on how to expedite teh production process as I was given set colors and instructions on how to color and shade the shot.
+When working on this project, I learned the ways on how to expedite the production process as I was given set colors and instructions on how to color and shade the shot.
 It was really fun working with other animators and figure out a rhythm when working. At the end of the production, I was able to enjoy working and communitcating with my fellow animators. 
 
