@@ -128,16 +128,16 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "CDRG",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Intern",
+      "startDate": "2019-05-20",
+      "endDate": "2019-11-20",
+      "summary": "Intern at CDRG",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Animated assets for children's math game",
+        "Learned some JavaScript and programmed of the game mechanics.",
+        "Created UI for the game."
       ]
     }
   ],
