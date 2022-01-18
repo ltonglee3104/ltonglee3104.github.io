@@ -53,8 +53,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -83,27 +81,26 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Bookstore",
+      "position": "Fiscal Assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2015-04-16",
+      "endDate": "2019-12-18",
+      "summary": "Student fiscal assistant that works on daily sales",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Matching invoices, balancing daily sales, etc."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Manoa Bookstore",
+      "position": "Customer Service",
+      "website": "",
+      "startDate": "2020-08-14",
+      "endDate": "Present",
+      "summary": "Assists customers with various questions and picking out books for them.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisting customers in store with questions and restocking books.",
+        "Answer phone calls with book inquiries and other questions."
       ]
     }
   ],
