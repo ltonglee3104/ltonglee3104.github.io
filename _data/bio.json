@@ -9,7 +9,7 @@
     "summary": "I am a student at UH Manoa who graduated with an ACM Animation Track and is currently earning ICS BA. Expected graduation 2023. After graduation, my plans are to work in the video game industry or go explore the world.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -143,17 +143,11 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Manoa Merit Scholarhip",
+      "date": "2015-2019",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+    }   
   ],
   "references": [
     {
