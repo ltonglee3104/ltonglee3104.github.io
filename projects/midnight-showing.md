@@ -13,7 +13,7 @@ labels:
 summary: Animated cartoon about a movie worker taking the night shift at their job. Many horrors to come as this worker discovers the secrets of the movie.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/mini-poster.png">
+<img class="ui medium right floated rounded image" src="../images/full-poster.png">
 
 
 Midnight Showing is a film directed and produced by Gavin Arucan. This film is about a movie worker (Angel) working the late shift at his job as he soon
