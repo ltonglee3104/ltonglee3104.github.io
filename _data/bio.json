@@ -76,6 +76,12 @@
       "endDate": "2019-12-18",
       "gpa": "3.72",
       "courses": [
+        "ACM 315: Narrative Game Design",
+        "ACM 320: Animation Production I",
+        "ACM 352: Screening Asian Americans",
+        "ACM 420: Animation Production II",
+        "ACM 499: Directed Study"
+        
       ]
     },
     {
@@ -86,6 +92,12 @@
       "endDate": "Present",
       "gpa": "3.72",
       "courses": [
+        "ICS 111: Intro to Java",
+        "ICS 141: Discrete Math I for CS",
+        "ICS 211: Data Structures",
+        "ICS 212: C/C++ Programming",
+        "ICS 241: Discrete Math II for CS",
+        "ICS 314: Software Engineering I"
       ]
     }
   ],
