@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: images/
 title: Midnight Showing
 permalink: projects/midnight-showing
 # All dates must be YYYY-MM-DD format!
