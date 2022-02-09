@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Coding Standards: Thoughts, Opinions, and Grievances
-date: 2022-01-22
+date: 2022-02-07
 labels:
   - Software Engineering
   - Learning
