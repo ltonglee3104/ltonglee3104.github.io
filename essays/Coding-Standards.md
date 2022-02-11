@@ -10,7 +10,7 @@ labels:
 ---
 
 ## Thoughts
-<img class="ui large left floated rounded image" src="../images/thoughts.jpg">
+<img class="ui medium left floated rounded image" src="../images/thoughts.jpg">
 Having coding standards will help software engineers write code that is clear and easy to understand. And with coding standards, a software engineer should be able to catch mistakes or problems in the code they write. I do agree that having some sort of coding standards will allow software engineers to have clear-cut code that allows peers to read and understand code easily. When it comes to web design, if the code is just a blob of code that works but it’s unreadable, it will be really hard to update a website and catch potential errors in the code!
 
 ## Experiences and Opinions
