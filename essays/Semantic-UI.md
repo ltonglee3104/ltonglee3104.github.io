@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Crash course with Javascript and Training with WODS
-date: 2022-01-15
+title: The Usefulness and Headache of UI Frameworks
+date: 2022-02-23
 labels:
   - Software Engineering
   - Learning
