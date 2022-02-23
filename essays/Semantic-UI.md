@@ -22,14 +22,14 @@ I want to put out a disclaimer first about my opinion on UI Frameworks. It is a 
 
 Now this is where everything went wrong for me when using Semantic UI. I was tasked to recreate a website of my choosing. I ended up choosing the UH Manoa Bookstore Techub about page thinking it would be easy. This is what my recreation looks like. 
 
-<img class="ui large center floated rounded image" src="../images/recreation-1.png">
-<img class="ui large center floated rounded image" src="../images/recreation-2.png">
+<img class="ui huge center floated rounded image" src="../images/recreation-1.png">
+<img class="ui huge center floated rounded image" src="../images/recreation-2.png">
 
 If looking at top of the website, it was relatively simple as I just made the background and set the title with contact. Even the dropdown menu was simple using Semantic UI since I just made one dropdown and then copied it and changed the items per dropdown. One of the challenging parts of this is that I had tried to align the user sign-in logo and the cart logo and it did not want to align. I spent about 2 hours trying to fix it with my CSS file as well as trying different Semantic UI options. When I figured this issue out, I had to take a break since it was so simple, yet so frustrating to figure out. 
 
 When it came to the middle of the website, creating it was also relatively easy to do as I was able to just use Semantic UI’s “UI grids” as well as aligning it center to recreate the images and bios of the employees. However, the footer was a nightmare for me to figure out as this was unknown territory for me. I couldn’t figure out how to match the columns where the underline would only be under the “Textbooks”, “Merchandise”, “Store”, and “Find Us”. I tried doing five columns with the UI grid but to no avail as everything became a jumbled mess. Another issue is that my button didn’t come out the way I wanted to as well as I couldn’t figure out how to properly set the background and color of the button without messing up the shape of it as well. Overall, I managed to finish this project after 8 hours (overall not back-to-back) with minor flaws to the website. 
 
 ## Thoughts and Opinions
-
+<img class="ui huge center floated rounded image" src="../images/thinking-image.jpg">
 I really think UI Frameworks can be useful when creating a website since it has very useful tools to build a website. However, I think it’s useful if you have more experience with this since you would be able to make websites with ease. One caveat is that if a client wants a website to be very elaborate, I think there are some limitations to UI Frameworks since a client might ask for specifications that might not be available like having a carousel of images that lead to different parts of the website. It’s hard to say since I just dipped my toes into UI Frameworks, but if I get more experience with developing websites, it’s a valuable tool to help clients. But for now, I’ll suffer through practicing on recreating websites. 
 
