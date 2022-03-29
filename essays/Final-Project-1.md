@@ -25,7 +25,7 @@ User profile fields will be accessable publicly on the website's pages, one for 
 it will take them to their biography page. The difference between the two different users is that the creator will have a list of projects that they need people
 for the particpants will have a list of projects they are in.  
 
-The two main usages of ArtistCallUH will be:  
+The two main usages of ArtistCallUH will be:
 
 1. Allowing UH Students to view who are making projects and need help and who would be interested in participating in the art projects.
 
