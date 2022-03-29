@@ -37,23 +37,23 @@ the creators and contact them directly through the website.
 
 Some possible mockup pages include:
 
-* Landing Page
-* Creator Page
-* Participant Page
-* Projects Page
-* Sign-up Page
-* Admin Page
+- Landing Page
+- Creator Page
+- Participant Page
+- Projects Page
+- Sign-up Page
+- Admin Page
 
 ### New Case Ideas
 
-* User goes to landing page, signs up for particpant page, creates user as participant.
-* User goes to landing page, signs up for Creator page, creates user as creator (creates projects and lists them onsite).
-* Admin logs in and manages what projects will be featured
-* Visitors can go through project pages to see what is being worked on/ in production.  
+- User goes to landing page, signs up for particpant page, creates user as participant.
+- User goes to landing page, signs up for Creator page, creates user as creator (creates projects and lists them onsite).
+- Admin logs in and manages what projects will be featured
+- Visitors can go through project pages to see what is being worked on/ in production.  
 
 ### Beyond The Basics
 
-* Feature completed projects from alumni
-* React features that allow interaction on what projects are popular
-* Application based messaging.
+- Feature completed projects from alumni
+- React features that allow interaction on what projects are popular
+- Application based messaging.
 
