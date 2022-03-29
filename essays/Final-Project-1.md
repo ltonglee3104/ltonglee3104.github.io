@@ -28,7 +28,6 @@ for the particpants will have a list of projects they are in.
 The two main usages of ArtistCallUH will be:
 
 1. Allowing UH Students to view who are making projects and need help and who would be interested in participating in the art projects.
-
 2. Allow easier access to projects and reduce resouces in doing casting calls, recruitment on projects, etc.
 
 In Regards to the first usage of ArtistCallUH, particpants and creators will both have their information shown. For participants however, they have the option to try and contact
@@ -37,6 +36,7 @@ the creators and contact them directly through the website.
 ### Mockup Page Ideas
 
 Some possible mockup pages include:
+
 * Landing Page
 * Creator Page
 * Participant Page
