@@ -27,9 +27,9 @@ for the particpants will have a list of projects they are in.
 
 The two main usages of ArtistCallUH will be:  
 
-Markup :  1. Allowing UH Students to view who are making projects and need help and who would be interested in participating in the art projects.
+1. Allowing UH Students to view who are making projects and need help and who would be interested in participating in the art projects.
 
-          2. Allow easier access to projects and reduce resouces in doing casting calls, recruitment on projects, etc.
+2. Allow easier access to projects and reduce resouces in doing casting calls, recruitment on projects, etc.
 
 In Regards to the first usage of ArtistCallUH, particpants and creators will both have their information shown. For participants however, they have the option to try and contact
 the creators and contact them directly through the website.
@@ -37,22 +37,23 @@ the creators and contact them directly through the website.
 ### Mockup Page Ideas
 
 Some possible mockup pages include:
-Markup : * Landing Page
-         * Creator Page
-         * Participant Page
-         * Projects Page
-         * Sign-up Page
-         * Admin Page
+* Landing Page
+* Creator Page
+* Participant Page
+* Projects Page
+* Sign-up Page
+* Admin Page
 
 ### New Case Ideas
 
-Markup : * User goes to landing page, signs up for particpant page, creates user as participant.
-         * User goes to landing page, signs up for Creator page, creates user as creator (creates projects and lists them onsite).
-         * Admin logs in and manages what projects will be featured
-         * Visitors can go through project pages to see what is being worked on/ in production.  
+* User goes to landing page, signs up for particpant page, creates user as participant.
+* User goes to landing page, signs up for Creator page, creates user as creator (creates projects and lists them onsite).
+* Admin logs in and manages what projects will be featured
+* Visitors can go through project pages to see what is being worked on/ in production.  
 
 ### Beyond The Basics
 
-Markup : * Feature completed projects from alumni
-         * React features that allow interaction on what projects are popular
-         * Application based messaging.
+* Feature completed projects from alumni
+* React features that allow interaction on what projects are popular
+* Application based messaging.
+
