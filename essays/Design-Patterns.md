@@ -14,7 +14,7 @@ labels:
 
 Looking at design patterns, it's hard for me to remember them or know them by just, well, memorizing them. However, when I look at it through the lens of game strategies or team compositions in video games it becomes easier. One game I want to use to make things easier for me is Counter-Strike.
 
-<img src="../images/cs-go.png" alt="csgo WP">
+<img ui medium left floated rounded image src="../images/cs-go.png" alt="csgo WP">
 
 In Counter-Strike, there are many strategies that teams do in order to gain advantages in order win the round. These strategies have their pros and cons, similar to design patterns. Certain maps (problems) call for certain strategies (design patterns).
 
