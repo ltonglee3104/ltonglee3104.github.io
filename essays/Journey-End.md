@@ -17,6 +17,7 @@ Throughout this semester of web design and creating a website in a team environm
 <img class="ui medium rounded image" src="../images/standards.jpg" alt="standard image">  
 
 Coding standards like any other standards set the bar for software engineers to follow to ensure code written for websites, programs, etc. are clean and understandable. And I learned that not all coding standards are the same in each company. Companies will have similar coding standards as there would be the fundamental groundwork for coding in general. But each company will have their own standards to coding.  
+  
 
 <img class="ui medium left floated rounded image" src="../images/pixar.jpg" alt="Pixar Pic">  
 
