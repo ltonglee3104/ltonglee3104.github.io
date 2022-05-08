@@ -18,7 +18,7 @@ Throughout this semester of web design and creating a website in a team environm
 
 Coding standards like any other standards set the bar for software engineers to follow to ensure code written for websites, programs, etc. are clean and understandable. And I learned that not all coding standards are the same in each company. Companies will have similar coding standards as there would be the fundamental groundwork for coding in general. But each company will have their own standards to coding.  
 
-<img class="ui medium left floated rounded image" src="../images/pixar.jpg" alt="Pixar Pic">  
+<img class="ui medium rounded image" src="../images/pixar.jpg" alt="Pixar Pic">  
 
 Whether or not I end up in an industry that uses coding, I think coding standards can be applied to just about any industry. An example of this can be applied to the animation industry. each animation industry have different standards of animation. You can compare Pixar and Kyoto animation since they have vastly different animations styles so they have different standards to have follow. That's why the animation quality of these companies are high quality even with different styles. I would adapt to these different standards regardless of industry so I can make sure the product being delivered is up to standard.  
 
