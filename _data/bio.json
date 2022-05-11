@@ -39,7 +39,12 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Game Design",
       "keywords": [
       ]
     }
@@ -52,7 +57,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
+        "Javascript"
       ]
     },
     {
@@ -81,7 +86,7 @@
         "ACM 352: Screening Asian Americans",
         "ACM 420: Animation Production II",
         "ACM 499: Directed Study"
-        
+
       ]
     },
     {
@@ -160,7 +165,7 @@
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.5 at a Hawai'i public school."
     },
-    
+
     {
       "title": "Dean's List",
       "date": "2015-2019",
