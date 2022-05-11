@@ -28,12 +28,12 @@ My role in this project was to work on the design for the admin page, landing pa
 Since this is my first group project when it comes to coding, communication was key in order to try get things done. We used issue driven project management for us to try and get the project done. It was a useful way to manage out project but we encountered some problems.  
 
 ### Browsing Companies
-<img class="ui medium image" src="../images/browse-companies.png" alt="RBC Browse">
+<img class="ui large rounded image" src="../images/browse-companies.png" alt="RBC Browse">
 
 We all had our strengths and weaknesses. Bret was really good with mongoDB so he implemented the collections we needed. I'm not the best at doing those things but with my animation background, I came up with the logos and different variations of it so the website can be updated. 
 
 ### One Logo Variant
-<img class="ui medium rounded image" src="../images/Kermit-Logo-V2-Shaded.png" alt="Kermit Logo">
+<img class="ui large rounded image" src="../images/Kermit-Logo-V2-Shaded.png" alt="Kermit Logo">
 
 
 I was able to do the logo fairly quickly and have a decent landing page on top of that. However, I couldn't figure out the issue of a white border around it. I was also doing a lot of current research for companies, where they are located, and job postings so we can add it to default collections. I ran into difficulties when setting up the admin powers for the website and it was only partially implemented.  
