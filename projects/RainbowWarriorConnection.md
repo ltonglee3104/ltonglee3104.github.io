@@ -36,7 +36,7 @@ We all had our strengths and weaknesses. Bret was really good with mongoDB so he
 <img class="ui large rounded image" src="../images/Kermit-Logo-V2-Shaded.png" alt="Kermit Logo">
 
 
-I was able to do the logo fairly quickly and have a decent landing page on top of that. However, I couldn't figure out the issue of a white border around it. I was also doing a lot of current research for companies, where they are located, and job postings so we can add it to default collections. I ran into difficulties when setting up the admin powers for the website and it was only partially implemented.  
+I was able to do the logo fairly quickly and have a decent landing page on top of that. However, I couldn't figure out the issue of a white border around it. I was also doing a lot of current research for companies, where they are located, and job postings so we can add it to default collections. I ran into difficulties when setting up the admin powers for the website and it was only partially implemented. In the end, we couldn't implement everything and parts of the webpage are a little broken. 
 
 The project was a challenging assignment with communicating with group members to get certain issues completed as some of them are needed for other issues. I got to learn that I like working on the front end of web design as I like to make websites look more attractive to the user.  
 
